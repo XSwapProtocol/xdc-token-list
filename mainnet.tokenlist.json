@@ -78,5 +78,12 @@
       "symbol": "USNOTA",
       "decimals": 18
     }    
+  {
+      "chainId": 50,
+      "address": "0xD3dE36D7cE3e6A5f072363Fe0F9541e59F86AA3e",
+      "name": "GRAMZ",
+      "symbol": "GRAMZ",
+      "decimals": 18
+    }    
   ]
 }
