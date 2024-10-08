@@ -16,7 +16,7 @@ Token data example:
       "name": "XSwap Treasury Token",
       "symbol": "XTT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0x17476dc3eda45aD916cEAdDeA325B240A7FB259D/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x17476dc3eda45aD916cEAdDeA325B240A7FB259D/logo.png",
       "tags": ["farming", "xdcpad", "launchpad"]
 }
 ```

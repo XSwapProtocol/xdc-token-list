@@ -11,7 +11,7 @@
     "xswapprotocol",
     "xswap"
   ],
-  "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/logo.png",
   "tokens": [
     {
       "chainId": 51,

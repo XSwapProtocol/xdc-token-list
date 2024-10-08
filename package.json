@@ -1,14 +1,14 @@
 {
   "name": "xdc-token-list",
   "version": "1.0.0",
-  "description": "## Short Guide 1) Create pair and add liquidity in [XSWAP](https://app.xspswap.finance/add/XDC) 2) Fork this repo 3) (optional) JSON file and fragment(for token list extending) can be generated here: https://xdc.sale/generate-json 4) Extend token list file for [Mainnet](https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/mainnet.tokenlist.json) | [Testnet](https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/testnet.tokenlist.json). 5) Create directory in [assets folder](https://github.com/pro100skm/xdc-token-list/tree/master/assets/). The directory name for each token should be the [ERC-55](https://eips.ethereum.org/EIPS/eip-55)-formatted address of the token contract. 6) Open your token directory. 7) Add `logo.png` and `info.json`. Logo must be a **square** (recommended: 128x128) PNG w/ transparent background. Please compress using https://tinypng.com. 8) Create Pull Request 9) (optional) Ping me on telegram [@popovitsch](https://t.me/popovitsch) to speed up merging process.",
+  "description": "XDC Token List from XSwap Protocol",
   "main": "index.js",
   "scripts": {
     "run": "NODE_PATH=./src ts-node --compiler-options '{\"module\":\"commonjs\"}' ./validate.ts"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pro100skm/xdc-token-list.git"
+    "url": "git+https://github.com/XSwapProtocol/xdc-token-list.git"
   },
   "author": "pro100skm",
   "keywords": [
@@ -18,9 +18,9 @@
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pro100skm/xdc-token-list/issues"
+    "url": "https://github.com/XSwapProtocol/xdc-token-list/issues"
   },
-  "homepage": "https://github.com/pro100skm/xdc-token-list#readme",
+  "homepage": "https://github.com/XSwapProtocol/xdc-token-list#readme",
   "devDependencies": {
     "@types/node": "^18.11.4",
     "@uniswap/token-lists": "^1.0.0-beta.30",

@@ -6,7 +6,7 @@
     "minor": 4,
     "patch": 0
   },
-  "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/logo.png",
   "keywords": [
     "blockchain",
     "xswapprotocol",
@@ -20,7 +20,7 @@
       "name": "XSwap Treasury Token",
       "symbol": "XTT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0x17476dc3eda45aD916cEAdDeA325B240A7FB259D/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x17476dc3eda45aD916cEAdDeA325B240A7FB259D/logo.png",
       "tags": ["farming", "xdcpad", "launchpad"]
     },
     {
@@ -29,7 +29,7 @@
       "name": "XSP Token",
       "symbol": "XSP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0x36726235dAdbdb4658D33E62a249dCA7c4B2bC68/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x36726235dAdbdb4658D33E62a249dCA7c4B2bC68/logo.png",
       "tags": ["dex", "swap"]
     },
     {
@@ -38,7 +38,7 @@
       "name": "Wrapped XDC",
       "symbol": "WXDC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0x951857744785E80e2De051c32EE7b25f9c458C42/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x951857744785E80e2De051c32EE7b25f9c458C42/logo.png",
       "tags": ["wrapped", "native"]
     },
     {

@@ -4,12 +4,12 @@
 1) Create pair and add liquidity in [XSWAP](https://app.xspswap.finance/add/XDC)
 2) Fork this repo
 3) (optional) JSON file and fragment(for token list extending) can be generated here: https://xdc.sale/generate-json
-4) Extend token list file for [Mainnet](https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/mainnet.tokenlist.json) | [Testnet](https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/testnet.tokenlist.json).
-5) Create directory in [assets folder](https://github.com/pro100skm/xdc-token-list/tree/master/assets/). The directory name for each token should be the [ERC-55](https://eips.ethereum.org/EIPS/eip-55)-formatted address of the token contract.
+4) Extend token list file for [Mainnet](https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/mainnet.tokenlist.json) | [Testnet](https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/testnet.tokenlist.json).
+5) Create directory in [assets folder](https://github.com/XSwapProtocol/xdc-token-list/tree/master/assets/). The directory name for each token should be the [ERC-55](https://eips.ethereum.org/EIPS/eip-55)-formatted address of the token contract.
 6) Open your token directory.
 7) Add `logo.png` and `info.json`. Logo must be a **square** (recommended: 128x128) PNG w/ transparent background. Please compress using https://tinypng.com.
 8) Create Pull Request to this repo from your forked one.
-9) (optional) Ping me on telegram [@popovitsch](https://t.me/popovitsch) to speed up merging process.
+9) (optional) Ping me on telegram [@romanow_eth](https://t.me/popovitsch) to speed up merging process.
 
 
 ## Extending Fields for token list:
@@ -24,7 +24,7 @@
 
 ### Optional
 
--  `logoURI`: An optional logo of your token. Must be a **square** (recommended: 128x128) PNG w/ transparent background. Please compress using https://tinypng.com. By default: https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/${address}/logo.png
+-  `logoURI`: An optional logo of your token. Must be a **square** (recommended: 128x128) PNG w/ transparent background. Please compress using https://tinypng.com. By default: https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/${address}/logo.png
 -  `tags`:    An array of tag identifiers associated with the token.
 
 ### Example of editing `mainnet.tokenlist.json` file
@@ -72,7 +72,7 @@
 -  `name`:        Longer human version of token.
 -  `address`:     Address of XRC-20 token, in [ERC-55](https://eips.ethereum.org/EIPS/eip-55) mixed-case format.
 -  `decimals`:    The decimals of the token. As Number and not String.
--  `logoURI`:     An optional logo of your token. Must be a **square** (recommended: 128x128) PNG w/ transparent background. Please compress using https://tinypng.com. By default: https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/${address}/logo.png
+-  `logoURI`:     An optional logo of your token. Must be a **square** (recommended: 128x128) PNG w/ transparent background. Please compress using https://tinypng.com. By default: https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/${address}/logo.png
 -  `website`:     Official URL of the website.
 -  `tags`:        An array of tag identifiers associated with the token.
 -  `links`:       Informational links array: twitter, telegram, email, discord, facebook, github, whitepaper.
