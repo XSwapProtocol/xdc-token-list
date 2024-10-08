@@ -9,7 +9,7 @@
 6) Open your token directory.
 7) Add `logo.png` and `info.json`. Logo must be a **square** (recommended: 128x128) PNG w/ transparent background. Please compress using https://tinypng.com.
 8) Create Pull Request to this repo from your forked one.
-9) (optional) Ping me on telegram [@romanow_eth](https://t.me/popovitsch) to speed up merging process.
+9) (optional) Ping me on telegram [@romanow_eth](https://t.me/romanow_eth) to speed up merging process.
 
 
 ## Extending Fields for token list:
@@ -84,4 +84,4 @@ This list is maintained by volunteers in the community &amp; people like you aro
 
 ---
 
-If you have a problem with git please don't hesitate to contact me on Telegram: [@popovitsch](https://t.me/popovitsch)
+If you have a problem with git please don't hesitate to contact me on Telegram: [@romanow_eth](https://t.me/romanow_eth)
