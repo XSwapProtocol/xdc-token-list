@@ -182,7 +182,7 @@
       "symbol": "XIPU",
       "name": "Xipu Dog",
       "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0xB9996Ecbe0eBEa1312fbd5729F1486aE9c12a0b6/logo.png",
-      "tags": ["xdc.sale", "meme"]
+      "tags": ["xdc_sale", "meme"]
     }
   ]
 }
