@@ -2,8 +2,8 @@
   "name": "XRC20 Tokens",
   "timestamp": "2024-10-22T16:11:32.219Z",
   "version": {
-    "major": 8,
-    "minor": 5,
+    "major": 9,
+    "minor": 2,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/logo.png",
@@ -53,14 +53,18 @@
       "address": "0x5D5f074837f5d4618B3916ba74De1Bf9662a3fEd",
       "name": "Storx",
       "symbol": "SRX",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x5D5f074837f5d4618B3916ba74De1Bf9662a3fEd/logo.png",
+      "tags": ["core"]
     },
     {
       "chainId": 50,
       "address": "0xFf7412Ea7C8445C46a8254dFB557Ac1E48094391",
       "name": "Plugin",
       "symbol": "PLI",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0xFf7412Ea7C8445C46a8254dFB557Ac1E48094391/logo.png",
+      "tags": ["core"]
     },
     {
       "chainId": 50,
@@ -88,7 +92,9 @@
       "address": "0xD4B5f10D61916Bd6E0860144a91Ac658dE8a1437",
       "name": "Bridged USDT",
       "symbol": "xUSDT",
-      "decimals": 6
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0xD4B5f10D61916Bd6E0860144a91Ac658dE8a1437/logo.png",
+      "tags": ["wanchain", "stable"]
     },
     {
       "chainId": 50,
@@ -116,7 +122,9 @@
       "address": "0x8f9920283470F52128bF11B0c14E798bE704fD15",
       "name": "Comtech Gold",
       "symbol": "CGO",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x8f9920283470F52128bF11B0c14E798bE704fD15/logo.png",
+      "tags": ["core", "stable"]
     },
     {
       "chainId": 50,
@@ -130,14 +138,18 @@
       "address": "0x1eBb2C8a71A9ec59bF558886a8Adf8F4a565814F",
       "name": "STASIS EURO",
       "symbol": "EURS",
-      "decimals": 2
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x1eBb2C8a71A9ec59bF558886a8Adf8F4a565814F/logo.png",
+      "tags": ["stable"]
     },
     {
       "chainId": 50,
       "address": "0x3279dBEfABF3C6ac29d7ff24A6c46645f3F4403c",
       "decimals": 18,
       "symbol": "FTHM",
-      "name": "Fathom Protocol Token"
+      "name": "Fathom Protocol Token",
+      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x3279dBEfABF3C6ac29d7ff24A6c46645f3F4403c/logo.png",
+      "tags": ["core"]
     },
     {
       "chainId": 50,
@@ -145,7 +157,8 @@
       "decimals": 18,
       "symbol": "FXD",
       "name": "Fathom USD",
-      "tags": ["stable"]
+      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x49d3f7543335cf38Fa10889CCFF10207e22110B5/logo.png",
+      "tags": ["core", "stable"]
     },
     {
       "chainId": 50,
@@ -159,21 +172,33 @@
       "address": "0x3fB46c4Db76d8E9f69F3F8388f43a7CA7E140807",
       "decimals": 18,
       "symbol": "DOPU",
-      "name": "Dog with a Purpose"
+      "name": "Dog with a Purpose",
+      "tags": ["meme"]
     },
     {
       "chainId": 50,
       "address": "0xFa4dDcFa8E3d0475f544d0de469277CF6e0A6Fd1",
       "decimals": 18,
       "symbol": "BBB",
-      "name": "Beny Bad Boy"
+      "name": "Beny Bad Boy",
+      "tags": ["meme"]
     },
     {
       "chainId": 50,
       "address": "0x678adF7955d8f6dCaa9e2fcC1C5BA70bCcC464E6",
       "decimals": 18,
       "symbol": "GAMA",
-      "name": "Gama Coin"
+      "name": "Gama Coin",
+      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x678adF7955d8f6dCaa9e2fcC1C5BA70bCcC464E6/logo.png",
+      "tags": ["gamefi"]
+    },
+    {
+      "chainId": 50,
+      "address": "0xB9996Ecbe0eBEa1312fbd5729F1486aE9c12a0b6",
+      "decimals": 18,
+      "symbol": "XIPU",
+      "name": "Xipu Dog",
+      "tags": ["meme"]
     }
   ]
 }
