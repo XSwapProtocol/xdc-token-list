@@ -1,9 +1,9 @@
 {
   "name": "XRC20 Tokens",
-  "timestamp": "2024-10-22T16:11:32.219Z",
+  "timestamp": "2025-01-06T18:11:32.219Z",
   "version": {
     "major": 9,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/logo.png",
@@ -14,6 +14,15 @@
     "xinfin"
   ],
   "tokens": [
+    {
+      "chainId": 50,
+      "address": "0x2A8E898b6242355c290E1f4Fc966b8788729A4D4",
+      "name": "Bridged USDC (XDC)",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x2A8E898b6242355c290E1f4Fc966b8788729A4D4/logo.png",
+      "tags": ["stable", "usdc"]
+    },
     {
       "chainId": 50,
       "address": "0x17476dc3eda45aD916cEAdDeA325B240A7FB259D",
