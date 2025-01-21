@@ -1,9 +1,9 @@
 {
   "name": "XRC20 Tokens",
-  "timestamp": "2025-01-21T18:11:32.219Z",
+  "timestamp": "2025-01-21T19:11:32.219Z",
   "version": {
     "major": 9,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/logo.png",
@@ -208,14 +208,6 @@
       "name": "Gama Coin",
       "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x678adF7955d8f6dCaa9e2fcC1C5BA70bCcC464E6/logo.png",
       "tags": ["gamefi"]
-    },
-    {
-      "chainId": 50,
-      "address": "0xB9996Ecbe0eBEa1312fbd5729F1486aE9c12a0b6",
-      "decimals": 18,
-      "symbol": "XIPU",
-      "name": "Xipu Dog",
-      "tags": ["meme"]
     }
   ]
 }
