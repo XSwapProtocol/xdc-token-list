@@ -52,6 +52,14 @@
     },
     {
       "chainId": 50,
+      "address": "0x7f115f68a789f819047b94efa0114aa9829b83d8",
+      "name": "PrimeStakeXDC",
+      "symbol": "pstXDC",
+      "decimals": 6,
+      "tags": ["stake"]
+    },
+    {
+      "chainId": 50,
       "address": "0xb3f18b584263191a33169f6393487e43e9586329",
       "name": "WadzPay Token",
       "symbol": "WTK",
