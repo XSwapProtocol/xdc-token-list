@@ -55,7 +55,7 @@
       "address": "0x7f115F68A789F819047b94EFA0114AA9829b83d8",
       "name": "PrimeStakeXDC",
       "symbol": "pstXDC",
-      "decimals": 6,
+      "decimals": 18,
       "tags": ["stake"]
     },
     {
