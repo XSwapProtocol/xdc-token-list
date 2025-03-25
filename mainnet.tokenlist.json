@@ -3,7 +3,7 @@
   "timestamp": "2025-01-21T19:11:32.219Z",
   "version": {
     "major": 10,
-    "minor": 5,
+    "minor": 6,
     "patch": 1
   },
   "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/logo.png",
@@ -60,9 +60,9 @@
     },
     {
       "chainId": 50,
-      "address": "0xb3f18b584263191a33169f6393487e43e9586329",
-      "name": "WadzPay Token",
-      "symbol": "WTK",
+      "address": "0x765087A2360F4D1F516De6552970256F9DB64827",
+      "name": "Tivo Token",
+      "symbol": "Tivo",
       "decimals": 18
     },
     {
