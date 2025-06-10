@@ -3,8 +3,8 @@
   "timestamp": "2025-06-10T19:11:32.219Z",
   "version": {
     "major": 11,
-    "minor": 6,
-    "patch": 1
+    "minor": 0,
+    "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/logo.png",
   "keywords": [
@@ -64,6 +64,14 @@
       "address": "0x7f115F68A789F819047b94EFA0114AA9829b83d8",
       "name": "PrimeStakeXDC",
       "symbol": "pstXDC",
+      "decimals": 18,
+      "tags": ["stake"]
+    },
+    {
+      "chainId": 50,
+      "address": "0x9B8e12b0BAC165B86967E771d98B520Ec3F665A6",
+      "name": "PrimeStakedXDC",
+      "symbol": "psXDC",
       "decimals": 18,
       "tags": ["stake"]
     },
