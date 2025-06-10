@@ -1,8 +1,8 @@
 {
   "name": "XRC20 Tokens",
-  "timestamp": "2025-01-21T19:11:32.219Z",
+  "timestamp": "2025-06-10T19:11:32.219Z",
   "version": {
-    "major": 10,
+    "major": 11,
     "minor": 6,
     "patch": 1
   },
@@ -40,6 +40,15 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x36726235dAdbdb4658D33E62a249dCA7c4B2bC68/logo.png",
       "tags": ["dex", "swap"]
+    },
+    {
+      "chainId": 50,
+      "address": "0x6168664FFc0a22CC4e9DF7cB7247Dcbb0C066169",
+      "name": "0xFútbol",
+      "symbol": "FUTBOL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x6168664FFc0a22CC4e9DF7cB7247Dcbb0C066169/logo.png",
+      "tags": ["game"]
     },
     {
       "chainId": 50,
