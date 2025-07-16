@@ -3,7 +3,7 @@
   "timestamp": "2025-06-10T19:11:32.219Z",
   "version": {
     "major": 12,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/logo.png",
@@ -132,13 +132,6 @@
     },
     {
       "chainId": 50,
-      "address": "0xb6E57fBB2D44092f75d9da2769FFc788ce931320",
-      "name": "BitcoinX",
-      "symbol": "BTCx",
-      "decimals": 8
-    },
-    {
-      "chainId": 50,
       "address": "0x374a7CE8Fda576a92e3A17c47f47C6B7AEcEF39D",
       "name": "CHUPACABRA",
       "symbol": "CHUPA",
@@ -207,14 +200,6 @@
       "decimals": 18,
       "symbol": "DOPU",
       "name": "Dog with a Purpose",
-      "tags": ["meme"]
-    },
-    {
-      "chainId": 50,
-      "address": "0xFa4dDcFa8E3d0475f544d0de469277CF6e0A6Fd1",
-      "decimals": 18,
-      "symbol": "BBB",
-      "name": "Beny Bad Boy",
       "tags": ["meme"]
     },
     {
