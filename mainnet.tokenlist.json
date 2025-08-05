@@ -2,7 +2,7 @@
   "name": "XRC20 Tokens",
   "timestamp": "2025-06-10T19:11:32.219Z",
   "version": {
-    "major": 12,
+    "major": 13,
     "minor": 2,
     "patch": 0
   },
@@ -210,6 +210,15 @@
       "name": "Gama Token",
       "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x678adF7955d8f6dCaa9e2fcC1C5BA70bCcC464E6/logo.png",
       "tags": ["gamefi"]
+    },
+    {
+      "chainId": 50,
+      "address": "0xAec5Eaf63402BF842D8642d917685e5ad3BA14bb",
+      "decimals": 18,
+      "symbol": "EEG",
+      "name": "EquitEdge ERC20 Token",
+      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0xAec5Eaf63402BF842D8642d917685e5ad3BA14bb/logo.png",
+      "tags": ["rwa"]
     }
   ]
 }
