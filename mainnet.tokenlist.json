@@ -3,7 +3,7 @@
   "timestamp": "2025-06-10T19:11:32.219Z",
   "version": {
     "major": 13,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/logo.png",
@@ -216,7 +216,7 @@
       "address": "0xAec5Eaf63402BF842D8642d917685e5ad3BA14bb",
       "decimals": 18,
       "symbol": "EEG",
-      "name": "EquitEdge ERC20 Token",
+      "name": "XDC's EquitEdge",
       "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0xAec5Eaf63402BF842D8642d917685e5ad3BA14bb/logo.png",
       "tags": ["rwa"]
     }
