@@ -2,7 +2,7 @@
   "name": "XRC20 Tokens",
   "timestamp": "2025-06-10T19:11:32.219Z",
   "version": {
-    "major": 16,
+    "major": 17,
     "minor": 0,
     "patch": 0
   },
@@ -14,6 +14,15 @@
     "xinfin"
   ],
   "tokens": [
+    {
+      "chainId": 50,
+      "address": "0xfA2958CB79b0491CC627c1557F441eF849Ca8eb1",
+      "name": "Native USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0xfA2958CB79b0491CC627c1557F441eF849Ca8eb1/logo.png",
+      "tags": ["stable", "usdc"]
+    },
     {
       "chainId": 50,
       "address": "0x2A8E898b6242355c290E1f4Fc966b8788729A4D4",
