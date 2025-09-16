@@ -3,7 +3,7 @@
   "timestamp": "2025-06-10T19:11:32.219Z",
   "version": {
     "major": 17,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/logo.png",
@@ -246,6 +246,13 @@
       "symbol": "BBB",
       "name": "Beny Bad Boy",
       "tags": ["meme"]
+    },
+    {
+      "chainId": 50,
+      "address": "0xc6126EBFa8B5fFD41561C086979c97416969CeBF",
+      "decimals": 18,
+      "symbol": "GLL",
+      "name": "Growlimitless"
     }
   ]
 }
