@@ -3,7 +3,7 @@
   "timestamp": "2025-06-10T19:11:32.219Z",
   "version": {
     "major": 17,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/logo.png",
@@ -253,6 +253,13 @@
       "decimals": 18,
       "symbol": "GLL",
       "name": "Growlimitless"
+    },
+    {
+      "chainId": 50,
+      "address": "0x92bb5d72bd65E8BAD36405D7C3D1497015A41160",
+      "decimals": 18,
+      "symbol": "AVR",
+      "name": "Avatar"
     }
   ]
 }
