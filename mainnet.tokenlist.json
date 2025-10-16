@@ -3,7 +3,7 @@
   "timestamp": "2025-06-10T19:11:32.219Z",
   "version": {
     "major": 18,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/logo.png",
@@ -260,6 +260,13 @@
       "decimals": 18,
       "symbol": "AVR",
       "name": "Avatar"
+    },
+    {
+      "chainId": 50,
+      "address": "0x81B244d0be055EF3BEF1b09B7826Cc2b108B2cBD",
+      "decimals": 18,
+      "symbol": "PRFI",
+      "name": "PRFI"
     }
   ]
 }
