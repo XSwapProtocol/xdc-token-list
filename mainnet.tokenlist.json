@@ -3,7 +3,7 @@
   "timestamp": "2025-06-10T19:11:32.219Z",
   "version": {
     "major": 18,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/logo.png",
@@ -70,14 +70,6 @@
     },
     {
       "chainId": 50,
-      "address": "0x7f115F68A789F819047b94EFA0114AA9829b83d8",
-      "name": "PrimeStakeXDC",
-      "symbol": "pstXDC",
-      "decimals": 18,
-      "tags": ["stake"]
-    },
-    {
-      "chainId": 50,
       "address": "0x9B8e12b0BAC165B86967E771d98B520Ec3F665A6",
       "name": "PrimeStakedXDC",
       "symbol": "psXDC",
@@ -121,13 +113,6 @@
       "address": "0x20B59e6C5DeB7d7cEd2CA823c6Ca81dd3f7e9A3A",
       "name": "Datachain Foundation",
       "symbol": "DC",
-      "decimals": 18
-    },
-    {
-      "chainId": 50,
-      "address": "0x0E11710AAd67E7427CfbC12c353284C2e335F62c",
-      "name": "PrimeNumbers Token",
-      "symbol": "PRNT",
       "decimals": 18
     },
     {
