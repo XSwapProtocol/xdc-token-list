@@ -2,8 +2,8 @@
   "name": "XRC20 Tokens",
   "timestamp": "2025-06-10T19:11:32.219Z",
   "version": {
-    "major": 18,
-    "minor": 1,
+    "major": 19,
+    "minor": 0,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/logo.png",
