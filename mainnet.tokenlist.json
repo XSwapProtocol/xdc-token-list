@@ -1,9 +1,9 @@
 {
   "name": "XRC20 Tokens",
-  "timestamp": "2025-06-10T19:11:32.219Z",
+  "timestamp": "2025-11-06T19:11:32.219Z",
   "version": {
     "major": 19,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/logo.png",
@@ -252,6 +252,13 @@
       "decimals": 18,
       "symbol": "PRFI",
       "name": "PRFI"
+    },
+    {
+      "chainId": 50,
+      "address": "0xEC2136843a983885AebF2feB3931F73A8eBEe50c",
+      "decimals": 18,
+      "symbol": "G$",
+      "name": "GoodDollar"
     }
   ]
 }
