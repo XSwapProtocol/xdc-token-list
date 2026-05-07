@@ -1,0 +1,280 @@
+{
+  "projects": [
+    {
+      "id": "xswap-protocol",
+      "name": "XSwap Protocol",
+      "symbol": "XSP",
+      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x36726235dAdbdb4658D33E62a249dCA7c4B2bC68/logo.png",
+      "shortDescription": "XSwap Protocol is an AMM DEX and launchpad for XRC20 tokens built on the XDC Network.",
+      "fullDescription": "XSwap Protocol is a decentralized exchange for XRC20 tokens built on the XDC Network. The protocol provides token swaps through liquidity pools, V2 and V3 DEX products, analytics, farming and staking products, governance, a launchpad through XDC.sale, and XSwap Wallet. XSP is the native token used across the ecosystem for payments, staking, farming rewards, and voting.",
+      "links": {
+        "website": "https://xspswap.finance/",
+        "whitepaper": "https://docs.xspswap.finance/xswap-protocol/",
+        "github": "https://github.com/XSwapProtocol",
+        "twitter": "https://twitter.com/XSwapProtocol",
+        "telegram": "https://t.me/real_XSwapProtocol",
+        "discord": "https://discord.gg/gKhvwgGx6E",
+        "medium": "https://medium.com/@XSwap_Protocol",
+        "explorer": "https://xdcscan.com/token/0x36726235dadbdb4658d33e62a249dca7c4b2bc68"
+      },
+      "contractAddresses": {
+        "50": [
+          {
+            "name": "XSP Token",
+            "address": "0x36726235dAdbdb4658D33E62a249dCA7c4B2bC68",
+            "decimals": 18,
+            "symbol": "XSP",
+            "type": "token"
+          },
+          {
+            "name": "XTT Token",
+            "address": "0x17476dc3eda45aD916cEAdDeA325B240A7FB259D",
+            "decimals": 18,
+            "symbol": "XTT",
+            "type": "token"
+          },
+          {
+            "name": "WXDC Token",
+            "address": "0x951857744785E80e2De051c32EE7b25f9c458C42",
+            "decimals": 18,
+            "symbol": "WXDC",
+            "type": "token"
+          },
+          {
+            "name": "Locker",
+            "address": "0x8d88B4FaE9bB421034F69D9f1aDE5DFabdc095c7",
+            "type": "staking"
+          },
+          {
+            "name": "V2 Factory",
+            "address": "0x347D14b13a68457186b2450bb2a6c2Fd7B38352f",
+            "type": "liquidity"
+          },
+          {
+            "name": "V2 Router",
+            "address": "0xf9c5E4f6E627201aB2d6FB6391239738Cf4bDcf9",
+            "type": "liquidity"
+          },
+          {
+            "name": "V3 UniversalRouter",
+            "address": "0xe1bcb1c502a545ee85a1881b95cdd46d394d2b2e",
+            "type": "liquidity"
+          },
+          {
+            "name": "V3 SwapRouter02",
+            "address": "0x3b9edecc4286ba33ea6e27119c2a4db99829839d",
+            "type": "liquidity"
+          },
+          {
+            "name": "V3SwapRouter",
+            "address": "0xecf4ea7907e779b8a7d0f90cb95fe06f43b610fb",
+            "type": "liquidity"
+          }
+        ],
+        "51": [
+          {
+            "name": "Apothem WXDC Token",
+            "address": "0x2a5c77b016Df1b3b0AE4E79a68F8adF64Ee741ba",
+            "decimals": 18,
+            "symbol": "WXDC",
+            "type": "token"
+          },
+          {
+            "name": "Apothem V2 Router",
+            "address": "0x3F11A24EB45d3c3737365b97A996949dA6c2EdDf",
+            "type": "liquidity"
+          },
+          {
+            "name": "Apothem V2 Factory",
+            "address": "0xCae66ac135d6489BDF5619Ae8F8f1e724765eb8f",
+            "type": "liquidity"
+          }
+        ]
+      },
+      "keyEvents": [
+        {
+          "date": "2021-10-27",
+          "title": "XSP token Techrate audit report published",
+          "description": "XSwap Protocol published the XSP token audit report by Techrate.",
+          "link": "https://medium.com/@XSwap_Protocol/xsp-audit-report-by-techrate-40883fa99961"
+        },
+        {
+          "date": "2021-12-01",
+          "title": "XSP staking launched",
+          "description": "XSwap Protocol announced that XSP staking was live.",
+          "link": "https://medium.com/@XSwap_Protocol/xsp-staking-is-live-8f9c29e9923f"
+        },
+        {
+          "date": "2022-03-14",
+          "title": "CertiK audit revised",
+          "description": "CertiK lists the XSwap Protocol audit as revised on this date.",
+          "link": "https://skynet.certik.com/projects/xswap-protocol"
+        },
+        {
+          "date": "2022-05-12",
+          "title": "XSP governance launched",
+          "description": "XSwap Protocol announced that XSP governance was live.",
+          "link": "https://medium.com/@XSwap_Protocol/xsp-governance-is-live-91f714758f3c"
+        },
+        {
+          "date": "2024-01-07",
+          "title": "XSwap V3 farming launched",
+          "description": "XSwap Protocol announced that V3 farming was live.",
+          "link": "https://medium.com/@XSwap_Protocol/xswap-v3-farming-is-live-e89e12c42abd"
+        },
+        {
+          "date": "2025-03-03",
+          "title": "Bridged USDC launched on XDC Network",
+          "description": "XSwap Protocol announced the launch of bridged USDC on XDC Network.",
+          "link": "https://medium.com/@XSwap_Protocol/xswap-protocol-launches-circles-bridged-usdc-on-xdc-network-d8565e70a08b"
+        },
+        {
+          "date": "2025-04-21",
+          "title": "XTT and XSP token merge announced",
+          "description": "XSwap Protocol announced a plan to merge XTT and XSP into a unified ecosystem.",
+          "link": "https://medium.com/@XSwap_Protocol/xtt-and-xsp-tokens-to-merge-transitioning-to-a-unified-ecosystem-04fb5e4c6725"
+        }
+      ],
+      "audits": [
+        {
+          "date": "2021-10-27",
+          "firm": "Techrate",
+          "reportURI": "https://github.com/XSwapProtocol/XSP/tree/main/XSP.sol%20Auditing%20Report"
+        },
+        {
+          "date": "2022-03-14",
+          "firm": "CertiK",
+          "reportURI": "https://skynet.certik.com/projects/xswap-protocol"
+        }
+      ],
+      "media": {
+        "brandAssetsURI": "https://github.com/XSwapProtocol/xdc-token-list/tree/master/assets/0x36726235dAdbdb4658D33E62a249dCA7c4B2bC68"
+      },
+      "isLaunched": true,
+      "featured": true,
+      "tags": [
+        "dex",
+        "amm",
+        "xrc20",
+        "xdc",
+        "launchpad",
+        "staking",
+        "farming",
+        "governance"
+      ],
+      "seo": {
+        "title": "XSwap Protocol - AMM DEX and Launchpad on XDC Network",
+        "description": "XSwap Protocol is an AMM DEX and launchpad for XRC20 tokens built on the XDC Network.",
+        "keywords": "XSwap Protocol, XSP, XDC Network, XRC20, DEX, AMM, launchpad",
+        "ogImage": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x36726235dAdbdb4658D33E62a249dCA7c4B2bC68/logo.png",
+        "ogType": "website",
+        "twitterCard": "summary_large_image",
+        "canonicalUrl": "https://xspswap.finance/",
+        "noindex": false
+      }
+    },
+    {
+      "id": "comtech-gold",
+      "name": "Comtech Gold",
+      "symbol": "CGO",
+      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x8f9920283470F52128bF11B0c14E798bE704fD15/logo.png",
+      "shortDescription": "Comtech Gold is a Shariah-compliant digital gold token built on the XDC Network.",
+      "fullDescription": "Comtech Gold is a tokenized gold project built on the XDC Network. CGO represents digital ownership of physical gold, with each token designed to represent one gram of gold. The project focuses on making gold ownership easier to access and trade while maintaining redeemability, regulation, and auditability of the underlying gold reserves.",
+      "links": {
+        "website": "https://comtechgold.com/",
+        "whitepaper": "https://www.comtechgold.com/assets/whitepaper/cgo_whitepaper_v1.pdf",
+        "github": "https://github.com/ComTechGold",
+        "twitter": "https://twitter.com/ComTechOfficial",
+        "telegram": "https://t.me/ComTechGold",
+        "discord": "https://discord.gg/T6wNqjXpt2",
+        "explorer": "https://xdcscan.com/token/0x8f9920283470f52128bf11b0c14e798be704fd15"
+      },
+      "contractAddresses": {
+        "50": [
+          {
+            "name": "Comtech Gold Token",
+            "address": "0x8f9920283470F52128bF11B0c14E798bE704fD15",
+            "decimals": 18,
+            "symbol": "CGO",
+            "type": "token"
+          }
+        ]
+      },
+      "media": {
+        "brandAssetsURI": "https://github.com/XSwapProtocol/xdc-token-list/tree/master/assets/0x8f9920283470F52128bF11B0c14E798bE704fD15"
+      },
+      "isLaunched": true,
+      "featured": false,
+      "tags": [
+        "rwa",
+        "gold",
+        "tokenized-assets",
+        "tokenized-gold",
+        "xdc",
+        "xrc20",
+        "stable"
+      ],
+      "seo": {
+        "title": "Comtech Gold - Tokenized Gold on XDC Network",
+        "description": "Comtech Gold is a Shariah-compliant digital gold token built on the XDC Network.",
+        "keywords": "Comtech Gold, CGO, XDC Network, XRC20, tokenized gold, RWA",
+        "ogImage": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x8f9920283470F52128bF11B0c14E798bE704fD15/logo.png",
+        "ogType": "website",
+        "twitterCard": "summary_large_image",
+        "canonicalUrl": "https://comtechgold.com/",
+        "noindex": false
+      }
+    },
+    {
+      "id": "plugin",
+      "name": "Plugin",
+      "symbol": "PLI",
+      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0xFf7412Ea7C8445C46a8254dFB557Ac1E48094391/logo.png",
+      "shortDescription": "Plugin is a decentralized oracle platform built for smart contracts on the XDC Network.",
+      "fullDescription": "Plugin is a decentralized oracle platform for the XDC Network. It provides data feeds, proof of reserve, VRF, automation, and oracle infrastructure that helps smart contracts connect to real-world data. PLI is the project's utility token used across the Plugin ecosystem.",
+      "links": {
+        "website": "https://plugin.global/",
+        "whitepaper": "https://www.goplugin.co/assets/Whitepaper-2.1.pdf",
+        "github": "https://github.com/goplugin",
+        "twitter": "https://twitter.com/GoPlugin",
+        "telegram": "https://t.me/goplugin",
+        "explorer": "https://xdcscan.com/token/0xff7412ea7c8445c46a8254dfb557ac1e48094391"
+      },
+      "contractAddresses": {
+        "50": [
+          {
+            "name": "Plugin Token",
+            "address": "0xFf7412Ea7C8445C46a8254dFB557Ac1E48094391",
+            "decimals": 18,
+            "symbol": "PLI",
+            "type": "token"
+          }
+        ]
+      },
+      "media": {
+        "brandAssetsURI": "https://github.com/XSwapProtocol/xdc-token-list/tree/master/assets/0xFf7412Ea7C8445C46a8254dFB557Ac1E48094391"
+      },
+      "isLaunched": true,
+      "featured": false,
+      "tags": [
+        "oracle",
+        "data-feeds",
+        "proof-of-reserve",
+        "vrf",
+        "automation",
+        "xdc",
+        "xrc20"
+      ],
+      "seo": {
+        "title": "Plugin - Decentralized Oracle Platform on XDC Network",
+        "description": "Plugin is a decentralized oracle platform built for smart contracts on the XDC Network.",
+        "keywords": "Plugin, PLI, XDC Network, oracle, data feeds, VRF, proof of reserve",
+        "ogImage": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0xFf7412Ea7C8445C46a8254dFB557Ac1E48094391/logo.png",
+        "ogType": "website",
+        "twitterCard": "summary_large_image",
+        "canonicalUrl": "https://plugin.global/",
+        "noindex": false
+      }
+    }
+  ]
+}

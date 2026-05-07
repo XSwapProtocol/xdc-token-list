@@ -4,7 +4,9 @@
   "description": "XDC Token List from XSwap Protocol",
   "main": "index.js",
   "scripts": {
-    "run": "NODE_PATH=./src ts-node --compiler-options '{\"module\":\"commonjs\"}' ./validate.ts"
+    "validate": "yarn validate:tokenlists && yarn validate:projects",
+    "validate:projects": "NODE_PATH=./src ts-node --compiler-options '{\"module\":\"commonjs\"}' ./validate-projects.ts",
+    "validate:tokenlists": "NODE_PATH=./src ts-node --compiler-options '{\"module\":\"commonjs\"}' ./validate.ts"
   },
   "repository": {
     "type": "git",
@@ -22,11 +24,11 @@
   },
   "homepage": "https://github.com/XSwapProtocol/xdc-token-list#readme",
   "devDependencies": {
-    "@types/node": "^18.11.4",
+    "@types/node": "^25.5.0",
     "@uniswap/token-lists": "^1.0.0-beta.30",
     "ajv": "^8.11.0",
     "ajv-formats": "^2.1.1",
-    "ts-node": "^10.9.1",
-    "typescript": "^4.6.3"
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
   }
 }
